@@ -1,0 +1,12 @@
+D:\Уник\ТПВИ\laba10\Authenticate\bin\Release\net9.0\Authenticate.deps.json
+D:\Уник\ТПВИ\laba10\Authenticate\bin\Release\net9.0\Authenticate.dll
+D:\Уник\ТПВИ\laba10\Authenticate\bin\Release\net9.0\Authenticate.pdb
+D:\Уник\ТПВИ\laba10\Authenticate\obj\Release\net9.0\Authenticate.csproj.AssemblyReference.cache
+D:\Уник\ТПВИ\laba10\Authenticate\obj\Release\net9.0\Authenticate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Уник\ТПВИ\laba10\Authenticate\obj\Release\net9.0\Authenticate.AssemblyInfoInputs.cache
+D:\Уник\ТПВИ\laba10\Authenticate\obj\Release\net9.0\Authenticate.AssemblyInfo.cs
+D:\Уник\ТПВИ\laba10\Authenticate\obj\Release\net9.0\Authenticate.csproj.CoreCompileInputs.cache
+D:\Уник\ТПВИ\laba10\Authenticate\obj\Release\net9.0\Authenticate.dll
+D:\Уник\ТПВИ\laba10\Authenticate\obj\Release\net9.0\refint\Authenticate.dll
+D:\Уник\ТПВИ\laba10\Authenticate\obj\Release\net9.0\Authenticate.pdb
+D:\Уник\ТПВИ\laba10\Authenticate\obj\Release\net9.0\ref\Authenticate.dll

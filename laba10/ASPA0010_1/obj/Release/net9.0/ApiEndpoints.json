@@ -1,0 +1,123 @@
+[
+  {
+    "ContainingType": "ASPA0010_1.Controllers.ResultsController",
+    "Method": "GetResults",
+    "RelativePath": "api/Results",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPA0010_1.Controllers.ResultsController",
+    "Method": "PostResult",
+    "RelativePath": "api/Results",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "resultValue",
+        "Type": "ASPA0010_1.Models.ResultValue",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPA0010_1.Controllers.ResultsController",
+    "Method": "GetResult",
+    "RelativePath": "api/Results/{k}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "k",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPA0010_1.Controllers.ResultsController",
+    "Method": "PutResult",
+    "RelativePath": "api/Results/{k}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "k",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "resultValue",
+        "Type": "ASPA0010_1.Models.ResultValue",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPA0010_1.Controllers.ResultsController",
+    "Method": "DeleteResult",
+    "RelativePath": "api/Results/{k}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "k",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPA0010_1.Controllers.ResultsController",
+    "Method": "Register",
+    "RelativePath": "api/Results/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "RegisterModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPA0010_1.Controllers.ResultsController",
+    "Method": "SignIn",
+    "RelativePath": "api/Results/SignIn",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "ASPA0010_1.Models.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ASPA0010_1.Controllers.ResultsController",
+    "Method": "SignOut",
+    "RelativePath": "api/Results/SignOut",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

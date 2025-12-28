@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|d:\\\u0443\u043D\u0438\u043A\\\u0442\u043F\u0432\u0438\\laba11\\aspa0011_1\\services\\channelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|solutionrelative:aspa0011_1\\services\\channelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|d:\\\u0443\u043D\u0438\u043A\\\u0442\u043F\u0432\u0438\\laba11\\aspa0011_1\\controllers\\channelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|solutionrelative:aspa0011_1\\controllers\\channelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|d:\\\u0443\u043D\u0438\u043A\\\u0442\u043F\u0432\u0438\\laba11\\aspa0011_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|solutionrelative:aspa0011_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|d:\\\u0443\u043D\u0438\u043A\\\u0442\u043F\u0432\u0438\\laba11\\aspa0011_1\\logs\\aspa-2025-11-28.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|solutionrelative:aspa0011_1\\logs\\aspa-2025-11-28.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|d:\\\u0443\u043D\u0438\u043A\\\u0442\u043F\u0432\u0438\\laba11\\aspa0011_1\\logs\\aspa-2025-12-12.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|solutionrelative:aspa0011_1\\logs\\aspa-2025-12-12.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|d:\\\u0443\u043D\u0438\u043A\\\u0442\u043F\u0432\u0438\\laba11\\aspa0011_1\\controllers\\queuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|solutionrelative:aspa0011_1\\controllers\\queuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|d:\\\u0443\u043D\u0438\u043A\\\u0442\u043F\u0432\u0438\\laba11\\aspa0011_1\\models\\responses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|solutionrelative:aspa0011_1\\models\\responses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|d:\\\u0443\u043D\u0438\u043A\\\u0442\u043F\u0432\u0438\\laba11\\aspa0011_1\\models\\requests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|solutionrelative:aspa0011_1\\models\\requests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|d:\\\u0443\u043D\u0438\u043A\\\u0442\u043F\u0432\u0438\\laba11\\aspa0011_1\\models\\channelstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|solutionrelative:aspa0011_1\\models\\channelstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|d:\\\u0443\u043D\u0438\u043A\\\u0442\u043F\u0432\u0438\\laba11\\aspa0011_1\\models\\channelinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|solutionrelative:aspa0011_1\\models\\channelinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|d:\\\u0443\u043D\u0438\u043A\\\u0442\u043F\u0432\u0438\\laba11\\aspa0011_1\\logging\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|solutionrelative:aspa0011_1\\logging\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|d:\\\u0443\u043D\u0438\u043A\\\u0442\u043F\u0432\u0438\\laba11\\aspa0011_1\\logging\\fileloggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|solutionrelative:aspa0011_1\\logging\\fileloggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|d:\\\u0443\u043D\u0438\u043A\\\u0442\u043F\u0432\u0438\\laba11\\aspa0011_1\\services\\ichannelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|solutionrelative:aspa0011_1\\services\\ichannelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|d:\\\u0443\u043D\u0438\u043A\\\u0442\u043F\u0432\u0438\\laba11\\aspa0011_1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|solutionrelative:aspa0011_1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|d:\\\u0443\u043D\u0438\u043A\\\u0442\u043F\u0432\u0438\\laba11\\aspa0011_1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|solutionrelative:aspa0011_1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|d:\\\u0443\u043D\u0438\u043A\\\u0442\u043F\u0432\u0438\\laba11\\aspa0011_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{709B94DE-B0DD-4CB4-8F8C-E6E2B0DF5EA5}|ASPA0011_1\\ASPA0011_1.csproj|solutionrelative:aspa0011_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "aspa-2025-12-12.log",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\logs\\aspa-2025-12-12.log",
+              "RelativeDocumentMoniker": "ASPA0011_1\\logs\\aspa-2025-12-12.log",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\logs\\aspa-2025-12-12.log",
+              "RelativeToolTip": "ASPA0011_1\\logs\\aspa-2025-12-12.log",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-12T10:21:43.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "aspa-2025-11-28.log",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\logs\\aspa-2025-11-28.log",
+              "RelativeDocumentMoniker": "ASPA0011_1\\logs\\aspa-2025-11-28.log",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\logs\\aspa-2025-11-28.log",
+              "RelativeToolTip": "ASPA0011_1\\logs\\aspa-2025-11-28.log",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAADcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-28T10:26:02.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\appsettings.json",
+              "RelativeDocumentMoniker": "ASPA0011_1\\appsettings.json",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\appsettings.json",
+              "RelativeToolTip": "ASPA0011_1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-30T20:21:05.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IChannelService.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\Services\\IChannelService.cs",
+              "RelativeDocumentMoniker": "ASPA0011_1\\Services\\IChannelService.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\Services\\IChannelService.cs",
+              "RelativeToolTip": "ASPA0011_1\\Services\\IChannelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T20:20:52.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChannelService.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\Services\\ChannelService.cs",
+              "RelativeDocumentMoniker": "ASPA0011_1\\Services\\ChannelService.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\Services\\ChannelService.cs",
+              "RelativeToolTip": "ASPA0011_1\\Services\\ChannelService.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAArwE8AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T20:20:25.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Responses.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\Models\\Responses.cs",
+              "RelativeDocumentMoniker": "ASPA0011_1\\Models\\Responses.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\Models\\Responses.cs",
+              "RelativeToolTip": "ASPA0011_1\\Models\\Responses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T20:19:22.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Requests.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\Models\\Requests.cs",
+              "RelativeDocumentMoniker": "ASPA0011_1\\Models\\Requests.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\Models\\Requests.cs",
+              "RelativeToolTip": "ASPA0011_1\\Models\\Requests.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T20:18:15.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChannelState.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\Models\\ChannelState.cs",
+              "RelativeDocumentMoniker": "ASPA0011_1\\Models\\ChannelState.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\Models\\ChannelState.cs",
+              "RelativeToolTip": "ASPA0011_1\\Models\\ChannelState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T20:17:47.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChannelInfo.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\Models\\ChannelInfo.cs",
+              "RelativeDocumentMoniker": "ASPA0011_1\\Models\\ChannelInfo.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\Models\\ChannelInfo.cs",
+              "RelativeToolTip": "ASPA0011_1\\Models\\ChannelInfo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T20:17:12.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ASPA0011_1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ASPA0011_1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T20:16:50.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileLoggerProvider.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\Logging\\FileLoggerProvider.cs",
+              "RelativeDocumentMoniker": "ASPA0011_1\\Logging\\FileLoggerProvider.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\Logging\\FileLoggerProvider.cs",
+              "RelativeToolTip": "ASPA0011_1\\Logging\\FileLoggerProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T20:16:20.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\Logging\\FileLogger.cs",
+              "RelativeDocumentMoniker": "ASPA0011_1\\Logging\\FileLogger.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\Logging\\FileLogger.cs",
+              "RelativeToolTip": "ASPA0011_1\\Logging\\FileLogger.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T20:15:50.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QueueController.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\Controllers\\QueueController.cs",
+              "RelativeDocumentMoniker": "ASPA0011_1\\Controllers\\QueueController.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\Controllers\\QueueController.cs",
+              "RelativeToolTip": "ASPA0011_1\\Controllers\\QueueController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T20:15:07.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASPA0011_1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ASPA0011_1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T20:14:36.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChannelsController.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\Controllers\\ChannelsController.cs",
+              "RelativeDocumentMoniker": "ASPA0011_1\\Controllers\\ChannelsController.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\Controllers\\ChannelsController.cs",
+              "RelativeToolTip": "ASPA0011_1\\Controllers\\ChannelsController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T20:14:20.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\Program.cs",
+              "RelativeDocumentMoniker": "ASPA0011_1\\Program.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u043A\\\u0422\u041F\u0412\u0418\\laba11\\ASPA0011_1\\Program.cs",
+              "RelativeToolTip": "ASPA0011_1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T20:13:20.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

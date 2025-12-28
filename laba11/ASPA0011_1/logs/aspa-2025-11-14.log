@@ -1,0 +1,120 @@
+[ 1: 2025-11-14 11:33:54.868] [Information] Application starting up.
+[ 0: 2025-11-14 11:33:57.029] [Trace] Request: GET /
+[ 0: 2025-11-14 11:33:57.034] [Trace] Response: 404
+[ 0: 2025-11-14 11:34:10.803] [Trace] Request: GET /swagger.html
+[ 0: 2025-11-14 11:34:10.807] [Trace] Response: 404
+[ 0: 2025-11-14 11:34:29.325] [Trace] Request: GET /swager.html
+[ 0: 2025-11-14 11:34:29.328] [Trace] Response: 404
+[ 0: 2025-11-14 11:35:20.000] [Trace] Request: GET /swagger.html
+[ 0: 2025-11-14 11:35:20.003] [Trace] Response: 404
+[ 1: 2025-11-14 11:39:20.747] [Information] Application starting up.
+[ 0: 2025-11-14 11:39:22.182] [Trace] Request: GET /
+[ 0: 2025-11-14 11:39:22.187] [Trace] Response: 404
+[99: 2025-11-14 11:42:10.805] [Information] Application shutting down.
+[ 1: 2025-11-14 11:42:15.310] [Information] Application starting up.
+[ 0: 2025-11-14 11:42:16.701] [Trace] Request: GET /
+[ 0: 2025-11-14 11:42:16.706] [Trace] Response: 404
+[ 0: 2025-11-14 11:42:48.913] [Trace] Request: GET /api/Channels
+[ 1: 2025-11-14 11:42:48.933] [Information] ChannelService initialized. WaitEnqueue is set to 30 seconds.
+[ 0: 2025-11-14 11:42:48.937] [Trace] ChannelsController instance created.
+[ 0: 2025-11-14 11:42:48.942] [Debug] Request received for GET /api/channels
+[ 0: 2025-11-14 11:42:48.948] [Trace] Response: 204
+[ 0: 2025-11-14 11:43:40.999] [Trace] Request: POST /api/Channels
+[ 0: 2025-11-14 11:43:41.013] [Trace] ChannelsController instance created.
+[ 0: 2025-11-14 11:43:41.060] [Debug] Request received for POST /api/channels
+[ 2: 2025-11-14 11:43:41.065] [Information] Channel created. ID: 8609fda2-82d8-4385-88f7-49454b7721cc, Name: string, State: ACTIVE
+[ 0: 2025-11-14 11:43:41.084] [Trace] Response: 201
+[ 0: 2025-11-14 11:43:53.900] [Trace] Request: GET /api/Channels
+[ 0: 2025-11-14 11:43:53.904] [Trace] ChannelsController instance created.
+[ 0: 2025-11-14 11:43:53.907] [Debug] Request received for GET /api/channels
+[ 0: 2025-11-14 11:43:53.914] [Trace] Response: 200
+[ 0: 2025-11-14 11:45:33.881] [Trace] Request: PUT /api/Channels
+[ 0: 2025-11-14 11:45:33.887] [Trace] ChannelsController instance created.
+[ 0: 2025-11-14 11:45:33.905] [Debug] Request received for PUT /api/channels
+[ 5: 2025-11-14 11:45:33.909] [Information] Channel 8609fda2-82d8-4385-88f7-49454b7721cc state changed to CLOSED.
+[ 0: 2025-11-14 11:45:33.934] [Trace] Response: 200
+[ 0: 2025-11-14 11:45:40.775] [Trace] Request: GET /api/Channels
+[ 0: 2025-11-14 11:45:40.803] [Trace] ChannelsController instance created.
+[ 0: 2025-11-14 11:45:40.808] [Debug] Request received for GET /api/channels
+[ 0: 2025-11-14 11:45:40.813] [Trace] Response: 200
+[ 0: 2025-11-14 11:46:32.812] [Trace] Request: GET /api/Channels
+[ 0: 2025-11-14 11:46:32.851] [Trace] ChannelsController instance created.
+[ 0: 2025-11-14 11:46:32.885] [Debug] Request received for GET /api/channels
+[ 0: 2025-11-14 11:46:32.891] [Trace] Response: 200
+[ 0: 2025-11-14 11:46:47.316] [Trace] Request: PUT /api/Channels
+[ 0: 2025-11-14 11:46:47.354] [Trace] ChannelsController instance created.
+[ 0: 2025-11-14 11:46:47.360] [Debug] Request received for PUT /api/channels
+[ 5: 2025-11-14 11:46:47.364] [Information] Channel 8609fda2-82d8-4385-88f7-49454b7721cc state changed to ACTIVE.
+[ 0: 2025-11-14 11:46:47.368] [Trace] Response: 200
+[ 0: 2025-11-14 11:46:52.968] [Trace] Request: GET /api/Channels
+[ 0: 2025-11-14 11:46:52.972] [Trace] ChannelsController instance created.
+[ 0: 2025-11-14 11:46:52.974] [Debug] Request received for GET /api/channels
+[ 0: 2025-11-14 11:46:52.977] [Trace] Response: 200
+[ 0: 2025-11-14 11:47:44.590] [Trace] Request: GET /api/Channels
+[ 0: 2025-11-14 11:47:44.593] [Trace] ChannelsController instance created.
+[ 0: 2025-11-14 11:47:44.596] [Debug] Request received for GET /api/channels
+[ 0: 2025-11-14 11:47:44.629] [Trace] Response: 200
+[ 0: 2025-11-14 11:48:05.863] [Trace] Request: PUT /api/Channels
+[ 0: 2025-11-14 11:48:05.901] [Trace] ChannelsController instance created.
+[ 0: 2025-11-14 11:48:05.905] [Debug] Request received for PUT /api/channels
+[ 5: 2025-11-14 11:48:05.909] [Information] Channel 8609fda2-82d8-4385-88f7-49454b7721cc state changed to CLOSED.
+[ 0: 2025-11-14 11:48:05.934] [Trace] Response: 200
+[ 0: 2025-11-14 11:48:56.283] [Trace] Request: POST /api/Queue
+[ 0: 2025-11-14 11:48:56.297] [Trace] QueueController instance created.
+[ 0: 2025-11-14 11:48:56.311] [Debug] Request received for POST /api/queue with command enqueue
+[ 6: 2025-11-14 11:48:56.323] [Error] Channel 8609fda2-82d8-4385-88f7-49454b7721cc not found or is closed.
+[ 0: 2025-11-14 11:48:56.350] [Trace] Response: 404
+[ 0: 2025-11-14 11:49:24.429] [Trace] Request: PUT /api/Channels
+[ 0: 2025-11-14 11:49:24.433] [Trace] ChannelsController instance created.
+[ 0: 2025-11-14 11:49:24.438] [Debug] Request received for PUT /api/channels
+[ 5: 2025-11-14 11:49:24.442] [Information] Channel 8609fda2-82d8-4385-88f7-49454b7721cc state changed to ACTIVE.
+[ 0: 2025-11-14 11:49:24.445] [Trace] Response: 200
+[ 0: 2025-11-14 11:49:29.575] [Trace] Request: POST /api/Queue
+[ 0: 2025-11-14 11:49:29.578] [Trace] QueueController instance created.
+[ 0: 2025-11-14 11:49:29.582] [Debug] Request received for POST /api/queue with command enqueue
+[ 7: 2025-11-14 11:49:29.587] [Debug] Enqueued data to channel 8609fda2-82d8-4385-88f7-49454b7721cc. Data: string
+[ 0: 2025-11-14 11:49:29.592] [Trace] Response: 200
+[ 0: 2025-11-14 11:50:21.682] [Trace] Request: POST /api/Queue
+[ 0: 2025-11-14 11:50:21.692] [Trace] QueueController instance created.
+[ 0: 2025-11-14 11:50:21.737] [Trace] Response: 400
+[ 0: 2025-11-14 11:50:58.762] [Trace] Request: POST /api/Queue
+[ 0: 2025-11-14 11:50:58.800] [Trace] QueueController instance created.
+[ 0: 2025-11-14 11:50:58.809] [Debug] Request received for POST /api/queue with command dequeue
+[ 9: 2025-11-14 11:50:58.813] [Debug] Dequeued data from channel 8609fda2-82d8-4385-88f7-49454b7721cc. Data: string
+[ 0: 2025-11-14 11:50:58.846] [Trace] Response: 200
+[99: 2025-11-14 11:52:35.578] [Information] Application shutting down.
+[ 1: 2025-11-14 11:59:52.790] [Information] Application starting up.
+[ 0: 2025-11-14 11:59:54.220] [Trace] Request: GET /
+[ 0: 2025-11-14 11:59:54.225] [Trace] Response: 404
+[ 0: 2025-11-14 12:00:01.995] [Trace] Request: GET /api/Channels
+[ 1: 2025-11-14 12:00:02.014] [Information] ChannelService initialized. WaitEnqueue is set to 30 seconds.
+[ 0: 2025-11-14 12:00:02.018] [Trace] ChannelsController instance created.
+[ 0: 2025-11-14 12:00:02.023] [Debug] Request received for GET /api/channels
+[ 0: 2025-11-14 12:00:02.031] [Trace] Response: 204
+[ 0: 2025-11-14 12:00:19.153] [Trace] Request: POST /api/Channels
+[ 0: 2025-11-14 12:00:19.169] [Trace] ChannelsController instance created.
+[ 0: 2025-11-14 12:00:19.220] [Debug] Request received for POST /api/channels
+[ 2: 2025-11-14 12:00:19.225] [Information] Channel created. ID: 3635ab29-b976-48a3-a862-d93270b00483, Name: string, State: ACTIVE
+[ 0: 2025-11-14 12:00:19.247] [Trace] Response: 201
+[ 0: 2025-11-14 12:00:42.023] [Trace] Request: PUT /api/Channels
+[ 0: 2025-11-14 12:00:42.028] [Trace] ChannelsController instance created.
+[ 0: 2025-11-14 12:00:42.049] [Debug] Request received for PUT /api/channels
+[ 0: 2025-11-14 12:00:42.105] [Trace] Response: 404
+[ 0: 2025-11-14 12:00:53.573] [Trace] Request: GET /api/Channels
+[ 0: 2025-11-14 12:00:53.579] [Trace] ChannelsController instance created.
+[ 0: 2025-11-14 12:00:53.583] [Debug] Request received for GET /api/channels
+[ 0: 2025-11-14 12:00:53.590] [Trace] Response: 200
+[ 0: 2025-11-14 12:01:08.241] [Trace] Request: PUT /api/Channels
+[ 0: 2025-11-14 12:01:08.244] [Trace] ChannelsController instance created.
+[ 0: 2025-11-14 12:01:08.247] [Debug] Request received for PUT /api/channels
+[ 5: 2025-11-14 12:01:08.250] [Information] Channel 3635ab29-b976-48a3-a862-d93270b00483 state changed to CLOSED.
+[ 0: 2025-11-14 12:01:08.270] [Trace] Response: 200
+[ 0: 2025-11-14 12:01:39.219] [Trace] Request: DELETE /api/Channels
+[ 0: 2025-11-14 12:01:39.227] [Trace] ChannelsController instance created.
+[ 0: 2025-11-14 12:01:39.235] [Debug] Request received for DELETE /api/channels
+[ 3: 2025-11-14 12:01:39.243] [Information] Channel deleted. ID: 3635ab29-b976-48a3-a862-d93270b00483
+[ 0: 2025-11-14 12:01:39.248] [Trace] Response: 200
+[ 0: 2025-11-14 12:01:47.288] [Trace] Request: GET /api/Channels
+[ 0: 2025-11-14 12:01:47.292] [Trace] ChannelsController instance created.
+[ 0: 2025-11-14 12:01:47.323] [Debug] Request received for GET /api/channels
+[ 0: 2025-11-14 12:01:47.326] [Trace] Response: 204

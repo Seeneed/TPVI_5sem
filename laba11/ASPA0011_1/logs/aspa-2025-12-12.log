@@ -1,0 +1,139 @@
+[ 1: 2025-12-12 13:02:20.515] [Information] Application starting up.
+[ 0: 2025-12-12 13:02:23.917] [Trace] Request: GET /
+[ 0: 2025-12-12 13:02:23.920] [Trace] Response: 404
+[ 1: 2025-12-12 13:03:26.744] [Information] Application starting up.
+[ 0: 2025-12-12 13:03:28.508] [Trace] Request: GET /
+[ 0: 2025-12-12 13:03:28.517] [Trace] Response: 404
+[ 1: 2025-12-12 13:03:57.936] [Information] Application starting up.
+[ 0: 2025-12-12 13:03:59.543] [Trace] Request: GET /
+[ 0: 2025-12-12 13:03:59.553] [Trace] Response: 404
+[ 0: 2025-12-12 13:04:40.817] [Trace] Request: POST /api/Channels
+[ 1: 2025-12-12 13:04:40.870] [Information] ChannelService initialized. WaitEnqueue is set to 30 seconds.
+[ 0: 2025-12-12 13:04:40.876] [Trace] ChannelsController instance created.
+[ 0: 2025-12-12 13:04:40.945] [Debug] Request received for POST /api/channels
+[ 2: 2025-12-12 13:04:40.953] [Information] Channel created. ID: c5b44ec8-4705-4f3f-95da-b87f84af9662, Name: str, State: ACTIVE
+[ 0: 2025-12-12 13:04:40.983] [Trace] Response: 201
+[ 0: 2025-12-12 13:04:49.307] [Trace] Request: GET /api/Channels
+[ 0: 2025-12-12 13:04:49.314] [Trace] ChannelsController instance created.
+[ 0: 2025-12-12 13:04:49.342] [Debug] Request received for GET /api/channels
+[ 0: 2025-12-12 13:04:49.351] [Trace] Response: 200
+[ 0: 2025-12-12 13:05:03.792] [Trace] Request: POST /api/Channels
+[ 0: 2025-12-12 13:05:03.796] [Trace] ChannelsController instance created.
+[ 0: 2025-12-12 13:05:03.801] [Debug] Request received for POST /api/channels
+[ 2: 2025-12-12 13:05:03.805] [Information] Channel created. ID: 0ab806e1-36ae-4e2d-8386-183fa3339146, Name: str2, State: CLOSED
+[ 0: 2025-12-12 13:05:03.839] [Trace] Response: 204
+[ 0: 2025-12-12 13:05:10.119] [Trace] Request: GET /api/Channels
+[ 0: 2025-12-12 13:05:10.122] [Trace] ChannelsController instance created.
+[ 0: 2025-12-12 13:05:10.126] [Debug] Request received for GET /api/channels
+[ 0: 2025-12-12 13:05:10.130] [Trace] Response: 200
+[ 0: 2025-12-12 13:11:23.930] [Trace] Request: PUT /api/Channels
+[ 0: 2025-12-12 13:11:23.939] [Trace] ChannelsController instance created.
+[ 0: 2025-12-12 13:11:23.966] [Debug] Request received for PUT /api/channels
+[ 5: 2025-12-12 13:11:23.972] [Information] Channel 0ab806e1-36ae-4e2d-8386-183fa3339146 state changed to ACTIVE.
+[ 0: 2025-12-12 13:11:23.976] [Trace] Response: 200
+[ 0: 2025-12-12 13:11:51.056] [Trace] Request: GET /api/Channels
+[ 0: 2025-12-12 13:11:51.095] [Trace] ChannelsController instance created.
+[ 0: 2025-12-12 13:11:51.104] [Debug] Request received for GET /api/channels
+[ 0: 2025-12-12 13:11:51.138] [Trace] Response: 200
+[ 0: 2025-12-12 13:12:11.380] [Trace] Request: PUT /api/Channels
+[ 0: 2025-12-12 13:12:11.387] [Trace] ChannelsController instance created.
+[ 0: 2025-12-12 13:12:11.395] [Debug] Request received for PUT /api/channels
+[ 5: 2025-12-12 13:12:11.399] [Information] Channel 0ab806e1-36ae-4e2d-8386-183fa3339146 state changed to CLOSED.
+[ 5: 2025-12-12 13:12:11.403] [Information] Channel c5b44ec8-4705-4f3f-95da-b87f84af9662 state changed to CLOSED.
+[ 0: 2025-12-12 13:12:11.409] [Trace] Response: 200
+[ 0: 2025-12-12 13:12:30.553] [Trace] Request: POST /api/Channels
+[ 0: 2025-12-12 13:12:30.556] [Trace] ChannelsController instance created.
+[ 0: 2025-12-12 13:12:30.559] [Debug] Request received for POST /api/channels
+[ 2: 2025-12-12 13:12:30.562] [Information] Channel created. ID: 174264cb-5563-46a5-9542-2dd1cd594379, Name: str3, State: ACTIVE
+[ 0: 2025-12-12 13:12:30.590] [Trace] Response: 201
+[ 0: 2025-12-12 13:12:33.923] [Trace] Request: GET /api/Channels
+[ 0: 2025-12-12 13:12:33.926] [Trace] ChannelsController instance created.
+[ 0: 2025-12-12 13:12:33.931] [Debug] Request received for GET /api/channels
+[ 0: 2025-12-12 13:12:33.935] [Trace] Response: 200
+[ 0: 2025-12-12 13:13:02.352] [Trace] Request: DELETE /api/Channels
+[ 0: 2025-12-12 13:13:02.359] [Trace] ChannelsController instance created.
+[ 0: 2025-12-12 13:13:02.389] [Debug] Request received for DELETE /api/channels
+[ 3: 2025-12-12 13:13:02.397] [Information] Channel deleted. ID: 0ab806e1-36ae-4e2d-8386-183fa3339146
+[ 3: 2025-12-12 13:13:02.400] [Information] Channel deleted. ID: c5b44ec8-4705-4f3f-95da-b87f84af9662
+[ 0: 2025-12-12 13:13:02.437] [Trace] Response: 200
+[ 0: 2025-12-12 13:13:08.287] [Trace] Request: GET /api/Channels
+[ 0: 2025-12-12 13:13:08.290] [Trace] ChannelsController instance created.
+[ 0: 2025-12-12 13:13:08.294] [Debug] Request received for GET /api/channels
+[ 0: 2025-12-12 13:13:08.298] [Trace] Response: 200
+[ 0: 2025-12-12 13:13:24.076] [Trace] Request: DELETE /api/Channels
+[ 0: 2025-12-12 13:13:24.081] [Trace] ChannelsController instance created.
+[ 0: 2025-12-12 13:13:24.085] [Debug] Request received for DELETE /api/channels
+[ 3: 2025-12-12 13:13:24.089] [Information] Channel deleted. ID: 174264cb-5563-46a5-9542-2dd1cd594379
+[ 0: 2025-12-12 13:13:24.093] [Trace] Response: 200
+[ 0: 2025-12-12 13:13:29.980] [Trace] Request: GET /api/Channels
+[ 0: 2025-12-12 13:13:29.984] [Trace] ChannelsController instance created.
+[ 0: 2025-12-12 13:13:29.987] [Debug] Request received for GET /api/channels
+[ 0: 2025-12-12 13:13:29.992] [Trace] Response: 204
+[ 0: 2025-12-12 13:13:48.285] [Trace] Request: POST /api/Channels
+[ 0: 2025-12-12 13:13:48.289] [Trace] ChannelsController instance created.
+[ 0: 2025-12-12 13:13:48.292] [Debug] Request received for POST /api/channels
+[ 2: 2025-12-12 13:13:48.322] [Information] Channel created. ID: 8d0b6b0e-6632-4e8c-a62c-61ed03104d11, Name: str1, State: ACTIVE
+[ 0: 2025-12-12 13:13:48.327] [Trace] Response: 201
+[ 0: 2025-12-12 13:14:00.644] [Trace] Request: POST /api/Channels
+[ 0: 2025-12-12 13:14:00.650] [Trace] ChannelsController instance created.
+[ 0: 2025-12-12 13:14:00.659] [Debug] Request received for POST /api/channels
+[ 2: 2025-12-12 13:14:00.664] [Information] Channel created. ID: 13b0297d-2130-4661-bd09-bc9a5a980000, Name: str2, State: CLOSED
+[ 0: 2025-12-12 13:14:00.669] [Trace] Response: 204
+[ 0: 2025-12-12 13:14:03.766] [Trace] Request: GET /api/Channels
+[ 0: 2025-12-12 13:14:03.807] [Trace] ChannelsController instance created.
+[ 0: 2025-12-12 13:14:03.812] [Debug] Request received for GET /api/channels
+[ 0: 2025-12-12 13:14:03.837] [Trace] Response: 200
+[ 0: 2025-12-12 13:14:34.488] [Trace] Request: POST /api/Queue
+[ 0: 2025-12-12 13:14:34.508] [Trace] QueueController instance created.
+[ 0: 2025-12-12 13:14:34.523] [Debug] Request received for POST /api/queue with command enqueue
+[ 6: 2025-12-12 13:14:34.536] [Error] Channel 13b0297d-2130-4661-bd09-bc9a5a980000 not found or is closed.
+[ 0: 2025-12-12 13:14:34.571] [Trace] Response: 404
+[ 0: 2025-12-12 13:14:57.134] [Trace] Request: POST /api/Queue
+[ 0: 2025-12-12 13:14:57.140] [Trace] QueueController instance created.
+[ 0: 2025-12-12 13:14:57.145] [Debug] Request received for POST /api/queue with command enqueue
+[ 7: 2025-12-12 13:14:57.150] [Debug] Enqueued data to channel 8d0b6b0e-6632-4e8c-a62c-61ed03104d11. Data: string
+[ 0: 2025-12-12 13:14:57.156] [Trace] Response: 200
+[ 0: 2025-12-12 13:15:29.914] [Trace] Request: POST /api/Queue
+[ 0: 2025-12-12 13:15:29.918] [Trace] QueueController instance created.
+[ 0: 2025-12-12 13:15:29.923] [Debug] Request received for POST /api/queue with command peek
+[10: 2025-12-12 13:15:29.926] [Debug] Peeked data from channel 8d0b6b0e-6632-4e8c-a62c-61ed03104d11. Data: string
+[ 0: 2025-12-12 13:15:29.930] [Trace] Response: 200
+[ 0: 2025-12-12 13:15:36.413] [Trace] Request: POST /api/Queue
+[ 0: 2025-12-12 13:15:36.438] [Trace] QueueController instance created.
+[ 0: 2025-12-12 13:15:36.442] [Debug] Request received for POST /api/queue with command peek
+[10: 2025-12-12 13:15:36.446] [Debug] Peeked data from channel 8d0b6b0e-6632-4e8c-a62c-61ed03104d11. Data: string
+[ 0: 2025-12-12 13:15:36.449] [Trace] Response: 200
+[ 0: 2025-12-12 13:15:39.996] [Trace] Request: POST /api/Queue
+[ 0: 2025-12-12 13:15:39.999] [Trace] QueueController instance created.
+[ 0: 2025-12-12 13:15:40.003] [Debug] Request received for POST /api/queue with command peek
+[10: 2025-12-12 13:15:40.006] [Debug] Peeked data from channel 8d0b6b0e-6632-4e8c-a62c-61ed03104d11. Data: string
+[ 0: 2025-12-12 13:15:40.010] [Trace] Response: 200
+[ 0: 2025-12-12 13:15:40.718] [Trace] Request: POST /api/Queue
+[ 0: 2025-12-12 13:15:40.721] [Trace] QueueController instance created.
+[ 0: 2025-12-12 13:15:40.725] [Debug] Request received for POST /api/queue with command peek
+[10: 2025-12-12 13:15:40.729] [Debug] Peeked data from channel 8d0b6b0e-6632-4e8c-a62c-61ed03104d11. Data: string
+[ 0: 2025-12-12 13:15:40.733] [Trace] Response: 200
+[ 0: 2025-12-12 13:15:41.427] [Trace] Request: POST /api/Queue
+[ 0: 2025-12-12 13:15:41.454] [Trace] QueueController instance created.
+[ 0: 2025-12-12 13:15:41.457] [Debug] Request received for POST /api/queue with command peek
+[10: 2025-12-12 13:15:41.461] [Debug] Peeked data from channel 8d0b6b0e-6632-4e8c-a62c-61ed03104d11. Data: string
+[ 0: 2025-12-12 13:15:41.465] [Trace] Response: 200
+[ 0: 2025-12-12 13:15:42.002] [Trace] Request: POST /api/Queue
+[ 0: 2025-12-12 13:15:42.005] [Trace] QueueController instance created.
+[ 0: 2025-12-12 13:15:42.009] [Debug] Request received for POST /api/queue with command peek
+[10: 2025-12-12 13:15:42.013] [Debug] Peeked data from channel 8d0b6b0e-6632-4e8c-a62c-61ed03104d11. Data: string
+[ 0: 2025-12-12 13:15:42.039] [Trace] Response: 200
+[ 0: 2025-12-12 13:15:42.513] [Trace] Request: POST /api/Queue
+[ 0: 2025-12-12 13:15:42.519] [Trace] QueueController instance created.
+[ 0: 2025-12-12 13:15:42.523] [Debug] Request received for POST /api/queue with command peek
+[10: 2025-12-12 13:15:42.527] [Debug] Peeked data from channel 8d0b6b0e-6632-4e8c-a62c-61ed03104d11. Data: string
+[ 0: 2025-12-12 13:15:42.531] [Trace] Response: 200
+[ 0: 2025-12-12 13:15:49.465] [Trace] Request: POST /api/Queue
+[ 0: 2025-12-12 13:15:49.505] [Trace] QueueController instance created.
+[ 0: 2025-12-12 13:15:49.511] [Debug] Request received for POST /api/queue with command dequeue
+[ 9: 2025-12-12 13:15:49.515] [Debug] Dequeued data from channel 8d0b6b0e-6632-4e8c-a62c-61ed03104d11. Data: string
+[ 0: 2025-12-12 13:15:49.519] [Trace] Response: 200
+[ 0: 2025-12-12 13:15:53.828] [Trace] Request: POST /api/Queue
+[ 0: 2025-12-12 13:15:53.832] [Trace] QueueController instance created.
+[ 0: 2025-12-12 13:15:53.836] [Debug] Request received for POST /api/queue with command dequeue
+[ 0: 2025-12-12 13:15:53.870] [Trace] Response: 404
